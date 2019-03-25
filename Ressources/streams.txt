@@ -1,0 +1,33 @@
+KPOP:
+	- SeoulFM - Korean Radio	<>	https://www.seoul.fm	<>	https://cdna.seoul.fm/seoulfm-mp3
+	- Kpopway Radio	<>	http://kpopway.com	<>	http://smoke.wavestreamer.com:2684/stream/1/
+
+CHILL:
+	- Chilltrax	<>	https://www.chilltrax.com	<>	http://server1.chilltrax.com:9000/
+	- Groove Salad	<>	http://somafm.com/groovesalad	<>	http://ice2.somafm.com/groovesalad-128-mp3
+	- Drone Zone	<>	http://somafm.com/dronezone	<>	http://ice1.somafm.com/dronezone-128-mp3
+
+TRAP:
+	- TRAP.FM	<>	http://trap.fm	<>	http://stream.trap.fm:6004/
+	- HorizonFM	<>	http://horizonfm.org	<>	http://185.27.140.54:8024/stream/
+
+DUBSTEP:
+	- Dubbase.FM	<>	dubbase.fm/	<>	http://stream.dubbase.fm:7004/
+	- 24/7 Dubstep Radio - Chillstep	<>	http://24dubstep.pl/	<>	http://31.14.131.233:8010/mp3_normal
+	- Radio Tube	<>	http://radio-tube.pl	<>	http://91.232.4.20:8154/
+
+EDM:
+	- PulseEDM Dance Music Radio	<>	https://www.internet-radio.com/station/edmpulse/	<>	http://pulseedm.cdnstream1.com:8124/
+	- Dance Attack FM	<>	http://www.danceattack.fm/	<>	http://212.83.150.15:8563/1
+
+70s/80s:
+	- Left Coast 70s	<>	http://somafm.com/seventies	<>	http://ice1.somafm.com/seventies-128-mp3
+	- Underground 80s	<>	http://somafm.com/u80s	<>	http://ice1.somafm.com/u80s-128-mp3
+
+ANIME:
+	- Anime Amaze	<>	http://www.animeamaze.com	<>	http://192.243.109.237:8000/anime.mp3
+	- Otaku Music Radio	<>	http://otakumusic.radio.net/	<>	http://streaming.radionomy.com/1-Otaku-Music-Radio
+
+OTHERS:
+	- Hit Radio	<>	http://www.hitradio.ma/	<>	http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
+	- Los40	<>	http://los40.com/	<>	http://19113.live.streamtheworld.com/LOS40.mp3
